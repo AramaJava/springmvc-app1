@@ -1,4 +1,4 @@
-package ru.maxima.springmvc;
+package ru.maxima.springmvc.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
